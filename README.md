@@ -4,8 +4,6 @@
 
 A modern, fully-functional e-commerce web application built with React that demonstrates advanced state management and data fetching patterns. This project utilizes the FakeStore API to simulate a real-world online shopping experience with product browsing, category filtering, cart management, and checkout functionality.
 
-**Live Demo:** [Your deployed link here]
-
 ---
 
 ## ✨ Features
@@ -184,7 +182,7 @@ This project was built to demonstrate proficiency in:
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Peter Perez**  
 - GitHub: [@pperez90-lab](https://github.com/pperez90-lab)
 - Project: Coding Bootcamp Module Project
 
@@ -200,4 +198,3 @@ This project is open source and available for educational purposes.
 
 - [FakeStore API](https://fakestoreapi.com/) for providing the mock e-commerce data
 - React, Redux Toolkit, and React Query documentation
-- Coding bootcamp instructors and peers
